@@ -21,7 +21,7 @@
 ---
 
 ## 🎯 Objetivo
-Desarrollarme como Data Analyst y aportar valor a través del análisis de datos en entornos reales de negocio.
+Desarrollarme como Data Analyst y aportar valor a través de entornos reales de negocio.
 
 ---
 
