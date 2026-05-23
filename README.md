@@ -1,7 +1,6 @@
 # 👋 Hola, soy Joaquín A. Guzmán
 
-💻 Data Analyst en formación  
-🎓 Estudiante de Tecnicatura Superior en Ciencia de Datos e IA (2026) – IFTS N°12  
+🎓 Estudiante de Tecnicatura Superior en Ciencia de Datos e IA  
 📊 Enfocado en transformar datos en decisiones basadas en evidencia  
 
 ---
